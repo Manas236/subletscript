@@ -1,0 +1,36 @@
+{
+  "version": 5,
+  "files": {
+    "cli.py": {
+      "status": "completed",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 1
+    },
+    "models.py": {
+      "status": "completed",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 1
+    },
+    "storage.py": {
+      "status": "completed",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 1
+    },
+    "analytics.py": {
+      "status": "completed",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 1
+    },
+    "utils.py": {
+      "status": "completed",
+      "attempts": 0,
+      "last_error": null,
+      "failures": 1
+    }
+  },
+  "last_updated": "2026-03-30T13:25:03.013650"
+}
